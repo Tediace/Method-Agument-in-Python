@@ -1,4 +1,6 @@
 # Method-Agument-in-Python
+<br>All of the same rules apply to method arguments as they do to function arguments, with the exception that the 
+first argument has to represent the instance. You can use default values, ``*args,`` and ``**kwargs`` all you want!</br>
 <br>First, [read the docs](https://docs.python.org/3/library/functions.html#setattr) about it. I know documentation can sometimes be hard to read, but getting in the habit of 
 reading it, starting there, will help you a lot in the long run.</br>
 
